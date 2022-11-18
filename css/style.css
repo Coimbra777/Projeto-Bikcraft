@@ -1,9 +1,13 @@
 @import "./global/header.css";
+<<<<<<< HEAD
 @import "./utilidades/tipografia.css";
+=======
+>>>>>>> e2841e3 (modificação da introdução)
 @import "./global/global.css";
 
 /* utilidades */
 @import "./utilidades/componentes.css";
+<<<<<<< HEAD
 @import "./utilidades/cores.css";
 
 /* HOME */
@@ -12,3 +16,8 @@
 
 /* BICICLCETAS-LISTA */
 @import "./bicicletas/bicicletas-lista.css";
+=======
+
+/* HOME */
+@import "./home/introducao.css";
+>>>>>>> e2841e3 (modificação da introdução)

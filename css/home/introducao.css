@@ -1,20 +1,34 @@
 /* ESTILOS DA INTRODUÇÃO */
 
 .introducao-bg {
+<<<<<<< HEAD
   background: var(--cor-12);
   box-shadow: inset 0px -120px var(--cor-0);
+=======
+  background: #000000;
+  color: #ffffff;
+  box-shadow: inset 0px -120px white;
+>>>>>>> e2841e3 (modificação da introdução)
 }
 
 .introducao {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0px 40px;
+<<<<<<< HEAD
   /* box-sizing: border-box;
+=======
+  box-sizing: border-box;
+>>>>>>> e2841e3 (modificação da introdução)
   max-width: 1200px;
   padding-left: 20px;
   padding-right: 20px;
   margin-left: auto;
+<<<<<<< HEAD
   margin-right: auto; */
+=======
+  margin-right: auto;
+>>>>>>> e2841e3 (modificação da introdução)
 }
 
 /* .introducao p,
@@ -34,6 +48,7 @@
 
 .introducao h1 {
   margin-bottom: 32px;
+<<<<<<< HEAD
 }
 
 /* a cor foi definida em utilidades 
@@ -47,6 +62,28 @@
 
 .introducao img {
   width: 100%;
+=======
+  font-size: 64px;
+  line-height: 1.125;
+  font-family: "Poppins";
+  font-weight: 600;
+}
+
+.introducao h1 span {
+  color: #ffbb00;
+}
+
+.introducao p {
+  margin-bottom: 20px;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #b2b2b2;
+  font-family: "Roboto";
+  font-weight: 400;
+}
+
+.introducao img {
+>>>>>>> e2841e3 (modificação da introdução)
   height: 100%;
   object-fit: cover;
   border-radius: 4px;
@@ -64,9 +101,15 @@
 }
 @media (max-width: 800px) {
   .introducao-bg {
+<<<<<<< HEAD
     background: var(--cor-11);
     padding: 40px;
     box-shadow: inset 0 -60px var(--cor-0);
+=======
+    background: #111111;
+    padding: 40px;
+    box-shadow: inset 0 -60px #ffffff;
+>>>>>>> e2841e3 (modificação da introdução)
   }
   .introducao {
     grid-template-columns: 1fr;
