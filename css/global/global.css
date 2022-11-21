@@ -11,12 +11,9 @@ ul {
 }
 
 h1,
-<<<<<<< HEAD
 h2,
 h3,
 h4,
-=======
->>>>>>> e2841e3 (modificação da introdução)
 ul,
 p {
   margin: 0px;
@@ -30,8 +27,4 @@ a {
 img {
   max-width: 100%;
   display: block;
-<<<<<<< HEAD
-  /* border-radius: 4px; */
-=======
->>>>>>> e2841e3 (modificação da introdução)
 }

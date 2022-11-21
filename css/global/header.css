@@ -1,11 +1,7 @@
 /*  ESTILOS DO HEADER */
 
 .header-bg {
-<<<<<<< HEAD
   background-color: var(--cor-12);
-=======
-  background-color: #000000;
->>>>>>> e2841e3 (modificação da introdução)
 }
 .header {
   display: flex;
@@ -13,16 +9,8 @@
   gap: 20px;
   justify-content: space-between;
   align-items: center;
-<<<<<<< HEAD
   padding-bottom: 20px;
   padding-top: 20px;
-=======
-  padding: 20px;
-  max-width: 1200px;
-  box-sizing: border-box;
-  margin-left: auto;
-  margin-right: auto;
->>>>>>> e2841e3 (modificação da introdução)
 }
 
 .header-menu {
@@ -34,10 +22,7 @@
 .header-menu a {
   display: inline-block;
   padding: 16px 0px;
-<<<<<<< HEAD
-=======
   color: #fff;
->>>>>>> e2841e3 (modificação da introdução)
   font-size: 18px;
   position: relative;
 }
@@ -47,11 +32,7 @@
   display: block;
   height: 2px;
   width: 0px;
-<<<<<<< HEAD
   background: var(--cor-0);
-=======
-  background: #ffffff;
->>>>>>> e2841e3 (modificação da introdução)
   margin-top: 4px;
   transition: 0.3s;
   position: absolute;
@@ -68,22 +49,14 @@
     gap: 20px;
   }
   .header-menu a {
-<<<<<<< HEAD
     background: var(--cor-11);
-=======
-    background: #111111;
->>>>>>> e2841e3 (modificação da introdução)
     padding: 12px 1px;
     border-radius: 5px;
     font-family: "Poppins";
     font-weight: 400;
   }
   .header-menu a:hover {
-<<<<<<< HEAD
     background-color: var(--cor-10);
-=======
-    background-color: #2e2e2e;
->>>>>>> e2841e3 (modificação da introdução)
   }
   .header-menu a::after {
     display: none;
