@@ -1,36 +1,15 @@
 @import "./global/header.css";
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 @import "./utilidades/tipografia.css";
-=======
->>>>>>> e2841e3 (modificação da introdução)
-=======
-@import "./utilidades/tipografia.css";
->>>>>>> e2f6f81 (modificação na introdução e lista de bicicletas)
 @import "./global/global.css";
 
 /* utilidades */
 @import "./utilidades/componentes.css";
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> e2f6f81 (modificação na introdução e lista de bicicletas)
 @import "./utilidades/cores.css";
 
 /* HOME */
 @import "./home/introducao.css";
-<<<<<<< HEAD
 @import "./home/tecnologia.css";
 
 /* BICICLCETAS-LISTA */
 @import "./bicicletas/bicicletas-lista.css";
-=======
-
-/* HOME */
-@import "./home/introducao.css";
->>>>>>> e2841e3 (modificação da introdução)
-=======
-
-/* BICICLCETAS-LISTA */
-@import "./bicicletas/bicicletas-lista.css";
->>>>>>> e2f6f81 (modificação na introdução e lista de bicicletas)
