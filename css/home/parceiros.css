@@ -36,9 +36,16 @@
 @media (max-width: 800px) {
   .parceiros {
     padding-bottom: 60px;
+    padding-top: 60px;
+
   }
   .parceiros h2 {
     margin-bottom: 20px;
+    font-size: 32px;
+    margin-bottom: 24px;
+    display: flex;
+  }
+    
   }
   .parceiros ul {
     grid-template-columns: repeat(2, 1fr);
@@ -52,4 +59,4 @@
   .parceiros li:nth-child(odd) {
     border-left: none;
   }
-} ;
+}

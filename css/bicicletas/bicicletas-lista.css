@@ -74,9 +74,15 @@
 
 @media (max-width: 800px) {
   .bicicleta-lista {
+    padding-top: 60px;
     padding-bottom: 60px;
   }
   .bicicleta-lista ul {
     gap: 20px;
+  }
+  .bicicleta-lista h2 {
+    font-size: 40px;
+    margin-bottom: 32px;
+    display: flex;
   }
 } ;

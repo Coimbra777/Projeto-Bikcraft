@@ -68,6 +68,7 @@
   .introducao h1 {
     font-size: 32px;
     margin-bottom: 16px;
+    display: flex;
   }
   .introducao img {
     height: 300px;

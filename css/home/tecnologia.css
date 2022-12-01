@@ -6,7 +6,7 @@
 .tecnologia {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 40px;
+  gap: 0 40px;
 }
 .tecnologia-conteudo {
   padding-top: 160px;
@@ -64,11 +64,17 @@
     padding-top: 60px;
     padding-bottom: 60px;
   }
+
   .tecnologia-imagem {
     display: none;
   }
   .tecnologia a {
     margin-bottom: 60px;
+  }
+  .tecnologia-conteudo h2 {
+    font-size: 32px;
+    margin-bottom: 16px;
+    display: flex;
   }
 }
 
