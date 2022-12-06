@@ -1,5 +1,8 @@
 # Projeto-Bikcraft
 
+![Captura de Tela (2)](https://user-images.githubusercontent.com/103074944/206044867-c7914938-74d7-4a04-9571-48b5c86b0ca7.png)
+
+
 ## 
 
 Criação do site Bikcraft para colocar em prática os conhecimentos aprendidos no curso de HTML E CSS do curso da Origamid.
